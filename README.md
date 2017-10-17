@@ -1,1 +1,2 @@
-# raupjc-hw0
+# Pitanje { Redni broj pitanja iz zadace }:
+{ Odgovor na pitanje }
